@@ -1,0 +1,14 @@
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.exe
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.deps.json
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.runtimeconfig.json
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.runtimeconfig.dev.json
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.dll
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\bin\Debug\netcoreapp3.1\MyMethodExercise.pdb
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.csproj.AssemblyReference.cache
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.AssemblyInfoInputs.cache
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.AssemblyInfo.cs
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.dll
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.pdb
+C:\Users\615ev\Desktop\repos\MyMethodExercise\MyMethodExercise\MyMethodExercise\obj\Debug\netcoreapp3.1\MyMethodExercise.genruntimeconfig.cache
